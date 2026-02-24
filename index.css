@@ -1,0 +1,51 @@
+html{
+  font-size: 10px;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  display: flex;
+  height: 60vh;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+ 
+}
+h1{
+  font-size: 3.5rem;
+}
+
+button{
+  padding: 1rem 2rem;
+margin: 2rem;
+}
+
+.start{
+  background-color:rgb(11, 118, 11);
+  color: white;
+  font-size: 1.7rem;
+  border: none;
+  font-weight: 600;
+  
+  
+}
+.stop{
+  background: red;
+  color: white;
+  font-size: 1.7rem;
+  border: none;
+  font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+
